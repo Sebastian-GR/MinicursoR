@@ -1,2 +1,2 @@
 # MinicursoR
-Material de la introducción a R usado en clase
+Material de la introducción a R usado en clases 
